@@ -10,12 +10,4 @@ RUN curl -L https://cpanmin.us | perl - -M https://cpan.metacpan.org -n Mojolici
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
