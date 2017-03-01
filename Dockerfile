@@ -1,5 +1,5 @@
 FROM iron/perl:latest
-MAINTAINER Reuben Stump (reuben.stump@servicenow.com)
+MAINTAINER Alex Mittell (alex.mittell@servicenow.com)
 
 # Install Perl Mojolicious
 RUN apk update --no-cache --purge
